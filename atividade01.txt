@@ -1,0 +1,66 @@
+Pessoa Estagiária de Desenvolvimento
+Requisitos
+	Orientaçõa à objetos
+	Conhecimentos básicos em front-end
+	Conhecimentos básicos de Javascript
+	Noções de funcionamento de APIs REST
+	SQL básico
+	Desejável experiência com C#
+	Desejável experiência com Angular 2+
+	Desejável noções de testes unitários
+	Inglês básico
+
+Contrato de Estágio;
+Bolsa estagio: 1250,00
+Auxílio-transporte;
+	Principais Atividades
+	Auxiliar nas especificações técnicas dos projetos
+	Auxiliar no desenho da arquitetura das soluções a serem desenvolvidas
+	Desenvolver e consumir APIs
+	Testar as aplicações desenvolvidas
+	Integrar as aplicações nos diversos sistemas da empresa
+	Desenvolver e organizar documentações dos sistemas desenvolvidos
+
+Desenvolvedor Front-end React 
+O que esperamos de você ?
+- Já ter atuado como FrontEnd com as linguagens React e Liferay
+
+- Conhecer versões Atuais Liferay e React
+
+- Conhecimentos em Arquitetura, Escalabilidade
+
+Desejável:
+
+- Ter Atuado com Liferay 7.2
+- React 16.8
+- Nuvem
+
+ Regime de Contratação: CLT
+- Salario entre 3.000 e 4.000 dependendo do regime de carga horaria.
+
+- Horário: Comercial
+
+- Modalidade: 100% Home Office
+
+
+- Participar de um time apoiado em métodos ágeis, em um ambiente de alta performance, ao lado de profissionais feras.
+
+- Desenvolvimento para manutenção ou construção de software.
+
+- Utilizar componentes nativos do Liferay. Primar por Less Code.
+
+
+
+Desenvolvedor Front End Angular Pleno
+Conhecimentos Técnicos:
+	Superior completo em Tecnologia;
+	Ampla experiência em Angular e HTML, CSS, JavaScript, Azure DevOps (pipelines);
+	Conhecimentos em Microfront-end;
+	Experiência em metodologias e práticas ágeis: Scrum / Kanban/ Ágil, etc..
+remuneração: 9.000  
+Benefícios competitivo no segmento, através do qual você será recompensado/a com base no seu desempenho. Além disso, oferecemos:
+Desenvolvimento profissional com base em um extenso programa de treinamentos, coordenado pela EY University (EYU), eleita como uma das melhores universidades corporativas;
+Programa EY Badges - programa único e inovador de desenvolvimento, aprendizagem e reconhecimento, preparando profissionais de forma teórica e prática nas competências mais relevantes da atualidade;
+Ambiente de trabalho que oferece a flexibilidade necessária para o cumprimento dos objetivos profissionais e pessoais, incentivando uma cultura de trabalho focada em resultados.
+
+
